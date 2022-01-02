@@ -1,4 +1,4 @@
-/*Author: Loryon*/
+/*Author: Chymion*/
 #include <iostream>
 #include <fstream>
 #include <stdio.h>
