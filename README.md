@@ -1,4 +1,5 @@
-=====Overview=====
+=====Overview====
+
 Given a specific thread URL, this program retreive all the files depending 
 on which type you choose and download them.
 File supported are: mp4, webm, gif, jpg, png
@@ -9,6 +10,7 @@ with most sites with the same link structure.
 
 
 =====Depedencies=====
+
 -In order to run this program you will need a linux machine (although macOS could be
 rapidly compatible with minor tweaks) 
 -wget
