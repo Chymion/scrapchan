@@ -10,7 +10,7 @@ with most sites with the same link structure.
 
 **Depedencies**
 ===
--In order to run this program you will need a linux machine (although macOS could be
-rapidly compatible with minor tweaks)<br> 
+-Python 3<br>
+-Unix system (Linux & MacOS)<br> 
 -wget<br>
 -curl
