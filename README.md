@@ -13,4 +13,4 @@ with most sites with the same link structure.
 -In order to run this program you will need a linux machine (although macOS could be
 rapidly compatible with minor tweaks)<br> 
 -wget<br>
--lynx
+-curl
