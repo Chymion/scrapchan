@@ -11,6 +11,6 @@ with most sites with the same link structure.
 **Depedencies**
 ===
 -Python 3<br>
--Unix system (Linux & MacOS)<br> 
+-Unix system (Linux or MacOS)<br> 
 -wget<br>
 -curl
