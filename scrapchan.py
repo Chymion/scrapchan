@@ -33,6 +33,8 @@ for line in open("links.temp"):
         count+=1
 if ((count % 2) == 0):
     count /= 2
+else:
+    count += 1
 print("There are " + str(int(count)) + " elements to be downloaded")
 choiceCount = input("Continue ? [y/n] : ")
 if (str(choiceCount) == 'y' or str(choiceCount) == 'Y'):
