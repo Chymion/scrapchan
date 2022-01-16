@@ -1,5 +1,10 @@
+# -*- coding: utf-8 -*-
 import os
 import re
+import sys
+MIN_PYTHON = (3, 0)
+if (sys.version_info < MIN_PYTHON):
+    sys.exit("Sorry, Python %s.%s or later is required..." % MIN_PYTHON)
 
 os.system('clear')
 print("=============\n🍀SCRAPCHAN🍀\n=============\n")
